@@ -1,0 +1,13 @@
+{
+  "name": "flossy-bot",
+  "version": "1.0.0",
+  "description": "Flossy, the oral care bot for Colgate",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
